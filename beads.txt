@@ -2,3 +2,4 @@ Red bead
 Blue bead
 Red bead
 Blue bead
+Red bead
